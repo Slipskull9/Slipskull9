@@ -1,5 +1,3 @@
-Hi, my name is Daniel
-I'm an entirely self taught programmer with a high interest in anything tech related.
 Here's a current list of goals I'm working towards:
    * Nand2Tetris Part 1 :- almost complete, currently working on an assembler written in C.
    * Build a VPN tunnel into my home network.
